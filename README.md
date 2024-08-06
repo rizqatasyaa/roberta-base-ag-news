@@ -1,2 +1,6 @@
 # roberta-base-ag-news
-Fine-Tuning LLM
+--TUGAS Fine-Tuning LLM--\
+Nama : Rizqatasyaa Achmad Zahra\
+NIM : 23917015\
+Kelas : Sains Data\
+Mata Kuliah : Analytics Text
